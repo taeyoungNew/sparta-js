@@ -23,4 +23,3 @@ let result2 = add2(1, 5)
 console.log(result2)
 // 함수를 호출한다.(= 사용한다)
 // 함수명() => add(param)
-
