@@ -60,6 +60,10 @@ let newNumbers = numbers.map((item) =>  {
     return item * 2;
 })
 
+numbers.map(function (item) {
+    return item
+})
+
 console.log(newNumbers)
 
 // 3. filter

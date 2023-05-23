@@ -25,9 +25,14 @@
 //     i++;
 // } while (i < 10);
 
-for(let idx = 0; idx <= 10; idx++) {
-    if(idx === 5) {
-        break;    
-    }
+// for(let idx = 0; idx <= 10; idx++) {
+//     if(idx === 5) {
+//         break;    
+//     }
+//     console.log(idx)
+// }
+
+let n = 12;
+for(let idx = 0; idx < n; idx++) {
     console.log(idx)
 }
